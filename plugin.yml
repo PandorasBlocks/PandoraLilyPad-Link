@@ -1,0 +1,8 @@
+name: Pandora LilyPad
+main: me.DawnBudgie.PandoraLilyPad.PandoraLilyPad
+version: 1.0.0
+author: DawnBudgie
+description: Utilizing the compass item to change worlds easily.
+commands:
+  compass:
+    description: Used to get the compass

@@ -1,0 +1,25 @@
+################################
+#  PandoraLilyPad by DawnBudgie#
+#    Suggestion by Hydraxus    #
+################################
+#
+# Quick information: (Config Version: 1.0+)
+# If "AllowCompassLore" is set to "false", then there will be NO description on the compass
+# If "AllowItemLore" is set to "false", there there will be NO description on the items in the compass
+# Each subsection allows for multivariable coloring, example: '&4C&cr&6e&ea&at&2i&bv&3e'
+
+AllowCompassLore: true
+AllowItemLore: true
+
+global:
+  slots: 9
+  invTitle: '&0Server Selector'
+item:
+  type: COMPASS
+  title: '&aTeleporter'
+  lore: '&2Right click to open!'
+commands:
+  41:
+    command: gamemode 1
+    title: '&4Creative'
+    lore: '&bSet your account to creative mode'
