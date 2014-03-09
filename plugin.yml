@@ -1,7 +1,7 @@
 name: Pandora LilyPad
 main: me.DawnBudgie.PandoraLilyPad.PandoraLilyPad
 version: 1.0.0
-author: DawnBudgie
+author: PandoraPlugineering
 website: https://github.com/PandorasBlocks
 description: Utilizing the compass item to change worlds easily.
 commands:
